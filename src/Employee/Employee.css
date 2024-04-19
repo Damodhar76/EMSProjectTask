@@ -1,0 +1,62 @@
+.sidbtn:hover{
+    border-style:inset;
+    border-color: aquamarine;
+   
+    border-width: 6px;
+    
+}
+.sidbgcol{
+    background-color: black;
+}
+.closecss{
+    background-color: white;
+}
+.sidtext{
+    color: aliceblue;
+}
+.sidtexthover:hover{
+    border: 5px solid;
+    border-width: 10px;
+    width: 200px;
+    /* border-color:rgb(222, 240, 243); */
+    background-color: rgb(34, 35, 35);
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    border-radius: 10px;
+    
+}
+.sidtexthover1:hover{
+    border: 5px;
+    border-width: 10px;
+    width: 200px;
+    border-color:rgb(179, 222, 230);
+    background-color: rgb(179, 222, 230);
+    padding-left: 100px;
+    padding-right: 40px;
+    border-style: dotted;
+    border-radius: 10px;
+    
+}
+
+
+.dd_meter{
+    width: 200px;
+    height: 40px;
+}
+
+.table1{
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.table{
+    margin-top: 10px;
+}
+.pdf-button{
+    width: auto;
+}
+.status-header {
+    width: 300px; /* Adjust the width as needed */
+  }
+  

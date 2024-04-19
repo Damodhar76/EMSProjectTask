@@ -1,0 +1,17 @@
+/* TaskForm.css */
+
+ .btn{
+    margin-right: 20px;
+    width: 110px;
+    background-color: rgb(100, 235, 100);
+    margin-top: 10px;
+ }
+ .task-form-container {
+  margin: 50px auto; /* Center the container horizontally and add margin */
+  max-width: 600px;
+  background-color: rgb(233, 222, 244);
+  padding: 20px; 
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);/* Set maximum width for the container */
+}
+  
